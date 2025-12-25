@@ -40,8 +40,13 @@
             "You can find all official Peach and Pablo links and resources at our Linktree.",
           buttons: [
             {
-              text: "🔗 Linktree",
-              href: "https://linktr.ee/PeachNPablo",
+              text: "Telegram",
+              href: "https://t.me/peachpabloETH",
+              external: !0,
+            },
+            {
+              text: "X",
+              href: "https://x.com/peachpabloETH",
               external: !0,
             },
             { text: "View Exchanges", href: "#contract", external: !1 },
@@ -51,7 +56,7 @@
           question: "What is the official contract address for $PP?",
           answer:
             "Always verify you're interacting with the correct contract. This will be updated at launch.",
-          contractAddress: "0x2eDdAC071732A52aB2CBfa2D5FD89df4381f7F4a",
+          contractAddress: "0xComingSoon",
         },
         {
           question: "What are the tokenomics?",
@@ -64,18 +69,13 @@
         {
           question: "How can I support Peach and Pablo?",
           answer:
-            "Supporting Peach and Pablo is simple:\n\n• Follow us on social media (Instagram, TikTok, YouTube, X, Facebook)\n• Share our content with friends and family\n• Join our community and engage with other fans\n• Create and share fan art, memes, and videos\n• Shop official merchandise\n\nPeach and Pablo grows because the community turns the characters into culture.",
+            "Supporting Peach and Pablo is simple:\n\n• Follow us on social media (Telegram, X)\n• Share our content with friends and family\n• Join our community and engage with other fans\n• Create and share fan art, memes, and videos\n• Shop official merchandise\n\nPeach and Pablo grows because the community turns the characters into culture.",
           buttons: [
             {
-              text: "Follow on Instagram",
-              href: "https://www.instagram.com/peachnpablo",
+              text: "Follow on Community",
+              href: "https://t.me/peachpabloETH",
               external: !0,
-            },
-            {
-              text: "View Store",
-              href: "https://linktr.ee/PeachNPablo",
-              external: !0,
-            },
+            }
           ],
         },
       ],
@@ -87,7 +87,7 @@
         tagline: "A cozy cat universe born on the internet.",
         chain: "Base",
         chainLogo: "/icons/exchanges/base-text-white.svg",
-        contractAddress: "0x2eDdAC071732A52aB2CBfa2D5FD89df4381f7F4a",
+        contractAddress: "0xComingSoon",
         basescanUrl: "https://basescan.org/address/",
         mediaKitUrl: "https://linktr.ee/PeachNPablo",
       },
