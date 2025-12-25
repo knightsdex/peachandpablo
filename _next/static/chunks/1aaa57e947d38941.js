@@ -56,7 +56,7 @@
           question: "What is the official contract address for $PP?",
           answer:
             "Always verify you're interacting with the correct contract. This will be updated at launch.",
-          contractAddress: "0xComingSoon",
+          contractAddress: "0x51ff507c04ab4a01d84dd5bd95fb961ae4abf4f1",
         },
         {
           question: "What are the tokenomics?",
@@ -87,7 +87,7 @@
         tagline: "A cozy cat universe born on the internet.",
         chain: "Base",
         chainLogo: "/icons/exchanges/base-text-white.svg",
-        contractAddress: "0xComingSoon",
+        contractAddress: "0x51ff507c04ab4a01d84dd5bd95fb961ae4abf4f1",
         basescanUrl: "https://basescan.org/address/",
         mediaKitUrl: "https://linktr.ee/PeachNPablo",
       },
