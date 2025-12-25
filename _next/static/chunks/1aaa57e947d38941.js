@@ -7636,46 +7636,6 @@
                       }),
                     }),
                   }),
-                  (0, t.jsx)("div", {
-                    className: "md:col-span-2 lg:col-span-4",
-                    children: (0, t.jsx)(s.Reveal, {
-                      children: (0, t.jsx)(n.motion.a, {
-                        href: a.creatorFund.learnMoreUrl,
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        className:
-                          "block rounded-[var(--radius-xl)] bg-cream-bg border border-dark-text/10 p-6 lg:p-8 shadow-lg group cursor-pointer",
-                        whileHover: { scale: 1.01 },
-                        transition: { duration: 0.2 },
-                        children: (0, t.jsxs)("div", {
-                          className: "flex items-center justify-between",
-                          children: [
-                            (0, t.jsxs)("div", {
-                              children: [
-                                (0, t.jsx)("h3", {
-                                  className:
-                                    "font-bold text-xl lg:text-2xl text-dark-text mb-1",
-                                  children: "Join the Universe",
-                                }),
-                                (0, t.jsx)("p", {
-                                  className:
-                                    "text-dark-text/70 text-sm lg:text-base",
-                                  children: "Follow along on our journey",
-                                }),
-                              ],
-                            }),
-                            (0, t.jsx)("div", {
-                              className:
-                                "w-12 h-12 rounded-full bg-peach-orange flex items-center justify-center group-hover:scale-110 transition-transform",
-                              children: (0, t.jsx)(d, {
-                                className: "w-6 h-6 text-white",
-                              }),
-                            }),
-                          ],
-                        }),
-                      }),
-                    }),
-                  }),
                 ],
               }),
               (0, t.jsxs)("div", {
